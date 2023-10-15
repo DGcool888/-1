@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+
+header img{
+    height:40px;
+}
+
+header b{
+    background-color: chartreuse;
+}
+
+header{
+    border: 1px solid blue;
+    border-radius: 40px;
+    background-color: black;
+    margin: 20px;
+    padding: 5px;
+    text-align: left
+}
+
+ a{
+    background-color: pink;
+    text-decoration: wavy;
+    color: darkgreen;
+}
+
+h1 i{
+  background-color: cyan;
+  border: 1px solid cyan;
+  border-radius: 20px;
+  text-align: r;
+  margin: 20px;
+  padding: 10px;
+}
+
+p img{
+    background-color: darkseagreen;
+}
+
+p{
+    background-color: greenyellow;
+    color: lightskyblue;
+}
+
+footer{
+    background-color: chartreuse;
+    margin:20px;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+}
+
+footer p{
+    background-color: blue;
+}
+
+nav a{
+    border: 1px solid red;
+    border-radius: 20px;
+    margin:20px;
+    padding: 10px;
+}
+
+nav{
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: indigo;
+    text-align: center;
+}
